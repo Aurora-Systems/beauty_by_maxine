@@ -1,1 +1,1 @@
-export const phone:string = "+263772537086"
+export const phone:string = "+263775604037"
