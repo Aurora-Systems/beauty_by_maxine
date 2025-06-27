@@ -59,7 +59,7 @@ function App() {
         <div className={"vid_con d-flex flex-column justify-content-center"}>
           <div>
             {/* <img src="https://ngratesc.sirv.com/BeautyMaxine/logo.png" width={200} className="img-fluid" /> */}
-            <h1 className="display-1 text-center">Beauty By<br /> <span className="gradient-text">Maxine</span><br /></h1>
+            <h1 className="display-1 text-center">Beauty By<br /> <span className="gradient-text-two">Maxine</span><br /></h1>
             <a href="#" target="_blank"><button className="text-center p_btn btn shadow">Book Now</button></a>
           </div>
         </div>
