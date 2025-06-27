@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
 :root{
     --pc:#bdaf9e;
-    --sc:#3f3222;
+    --sc:#6b5030;
 }
 
 body{
@@ -60,7 +60,7 @@ video{
     width: 100%;
     height: 100vh;
     
-    background: rgba(0,0,0,0.5);
+    background: rgba(0, 0, 0, 0.589);
 }
 
 .vid_con{

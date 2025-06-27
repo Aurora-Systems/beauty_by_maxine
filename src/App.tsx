@@ -85,6 +85,35 @@ function App() {
           </div>
         </div>
         </Fade>
+        <Fade>
+            <div className="text-center">
+                <h1 className="gradient-text display-1">Surgical Planning & Cordination</h1>
+                <p>
+                  Your transformation begins well before surgery and we're here to walk with you from the very first step. With a decade of trusted experience, we offer full support in organizing your surgical journey, ensuring clarity, comfort, and peace of mind along the way.
+                </p>
+                
+            </div>
+          <div className="row d-flex align-items-center">
+            <div className="col-sm">
+              <Fade cascade={true}>
+              <h3 className="gradient-text">We assist with</h3>
+              <ul>
+                  <li>Personalized consultations to understand your goals and needs</li>
+                  <li>Surgeon matchmaking, connecting you with internationally renowned professionals known for exceptional results</li>
+                  <li>Surgery scheduling, ensuring optimal timing for your lifestyle and recovery plan</li>
+                  <li>Pre-operative preparation, from mental readiness to skin and body priming for the procedure ahead</li>
+                </ul>
+                <p>
+                  We believe a confident decision is an informed one. Our role is to advocate for your safety, streamline your experience, and create a support system where your comfort is always front and center. Whether you're local or traveling for care, we facilitate every element professionally, discreetly, and with unwavering dedication to your well-being.
+                </p>
+                <button className="text-center p_btn btn shadow">Book Now</button>
+                </Fade>
+            </div>
+            <div className="col-sm">
+              <img src="https://ngratesc.sirv.com/BeautyMaxine/2149941525.jpg" className="img-fluid rounded"/>
+            </div>
+          </div>
+        </Fade>
         <div className={"mt-5 "}>
           <div className={"text-center"}>
             <div>
@@ -136,7 +165,7 @@ function App() {
 
                 <img src="https://ngratesc.sirv.com/Raine/10010%20(1).jpg" className="img-thumbnail rounded" />
                 <p className="fw-bold gradient-text">Continuous Guidance & Confidentiality</p>
-                <small> We partner with you at every turn—tracking your progress, fine-tuning your treatment plan, and safeguarding your privacy. Our modern facility and compassionate professionals offer a discreet, judgment-free space where your comfort and confidence come first.
+                <small> We partner with you at every turn tracking your progress, fine-tuning your treatment plan, and safeguarding your privacy. Our modern facility and compassionate professionals offer a discreet, judgment-free space where your comfort and confidence come first.
 </small>
                 </Fade>
               </div>
