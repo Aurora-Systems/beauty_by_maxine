@@ -48,7 +48,7 @@ function App() {
           </div>
         </div>
         <div>
-          <a href="#" target="_blank"><button className="btn p_btn shadow">Book Now</button></a>
+          <a href="https://beautybymaxine.zohobookings.com/#/4754763000000048052" target="_blank"><button className="btn p_btn shadow">Book Now</button></a>
         </div>
       </div>
       <div className={"min-vh-100 d-flex align-items-center text-center justify-content-center"}>
@@ -60,7 +60,7 @@ function App() {
           <div>
             {/* <img src="https://ngratesc.sirv.com/BeautyMaxine/logo.png" width={200} className="img-fluid" /> */}
             <h1 className="display-1 text-center">Beauty By<br /> <span className="gradient-text-two">Maxine</span><br /></h1>
-            <a href="#" target="_blank"><button className="text-center p_btn btn shadow">Book Now</button></a>
+            <a href="https://beautybymaxine.zohobookings.com/#/4754763000000048052" target="_blank"><button className="text-center p_btn btn shadow">Book Now</button></a>
           </div>
         </div>
       </div>
@@ -106,7 +106,7 @@ function App() {
                 <p>
                   We believe a confident decision is an informed one. Our role is to advocate for your safety, streamline your experience, and create a support system where your comfort is always front and center. Whether you're local or traveling for care, we facilitate every element professionally, discreetly, and with unwavering dedication to your well-being.
                 </p>
-                <button className="text-center p_btn btn shadow">Book Now</button>
+                <a href="https://beautybymaxine.zohobookings.com/#/4754763000000048052" target="_blank"><button className="text-center p_btn btn shadow">Book Now</button></a>
                 </Fade>
             </div>
             <div className="col-sm">
@@ -196,7 +196,7 @@ function App() {
                soothing aromatherapy, bespoke facials, and precision manicures. We&apos;ve seen firsthand how an 
                integrated approach where physical restoration and emotional support walk hand in hand can 
                elevate results and deepen confidence.</p>
-              <a href={`https://wa.me/${phone}?text=Can i get more information about the Wellness Academy`}><button className="btn p_btn mt-1 mb-1">Learn More</button></a>
+              <a href={`https://wa.me/${phone}?text=Can i get more information about the techniques and methods you use?`}><button className="btn p_btn mt-1 mb-1">Learn More</button></a>
 
           </div>
           <div className="col-sm">
@@ -213,7 +213,7 @@ function App() {
                it&apos;s a partnership built on respect, expertise, and the belief that true beauty
                 emerges from health—inside and out.
 </p>
-              <a href={`https://wa.me/${phone}?text=Can i get more information about the Wellness Warehouse`}><button className="btn p_btn mt- mb-3">Learn More</button></a>
+              <a href={`https://wa.me/${phone}?text=Can i get more information about your vision`}><button className="btn p_btn mt- mb-3">Learn More</button></a>
           </div>
           <div className="col-sm order-md-first">
             <img src="https://ngratesc.sirv.com/BeautyMaxine/portrait-beautiful-woman-with-floral-mask-gloves.jpg" className="img-fluid rounded" alt="wellness academy" />
@@ -280,7 +280,7 @@ function App() {
           
           <div className="w-sm-100 text-center">
             <p className="gradient-text">Subscribe To Our Blog</p>
-          <iframe src="https://aurorasystems.substack.com/embed"   className="w-sm-100"></iframe>
+          <iframe src="https://beautybymaxine.substack.com/embed"   className="w-sm-100"></iframe>
           </div>
       </div>
       <div className="gradient-bg text-center text-white">
