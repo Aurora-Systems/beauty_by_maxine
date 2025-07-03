@@ -244,7 +244,7 @@ function App() {
                   </div>
                   <div className="mb-2">
                     <span>Contact Number</span>
-                    <input type="tel" className="form-control" name="message" placeholder="+263 ** *** ***" />
+                    <input type="tel" className="form-control" name="contact" placeholder="+263 ** *** ***" />
                   </div>
                   <div className="mb-2">
                     <span>Messgae</span>
