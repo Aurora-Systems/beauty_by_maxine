@@ -39,7 +39,7 @@ function App() {
       <div className="sticky-top d-flex align-items-center justify-content-between  bg-white p-2">
         <div className="d-flex flex-row align-items-center justify justify-content-center gap-2 text-center">
           <div>
-          <img src="https://ngratesc.sirv.com/BeautyMaxine/logo.png" width={"30px"} className="img-fluid" alt="logo" />
+          <img src="https://cdn.clipond.com/BeautyMaxine/logo.png" width={"30px"} className="img-fluid" alt="logo" />
 
           </div>
           <div>
@@ -55,10 +55,10 @@ function App() {
         <div className="overlay">
 
         </div>
-        <video src="https://ngratesc.sirv.com/Raine/6750890-hd_1920_1080_25fps.mp4" autoPlay loop muted />
+        <video src="https://cdn.clipond.com/Raine/6750890-hd_1920_1080_25fps.mp4" autoPlay loop muted />
         <div className={"vid_con d-flex flex-column justify-content-center"}>
           <div>
-            {/* <img src="https://ngratesc.sirv.com/BeautyMaxine/logo.png" width={200} className="img-fluid" /> */}
+            {/* <img src="https://cdn.clipond.com/BeautyMaxine/logo.png" width={200} className="img-fluid" /> */}
             <h1 className="display-1 text-center">Beauty By<br /> <span className="gradient-text-two">Maxine</span><br /></h1>
             <a href="https://beautybymaxine.zohobookings.com/#/4754763000000048052" target="_blank"><button className="text-center p_btn btn shadow">Book Now</button></a>
           </div>
@@ -68,7 +68,7 @@ function App() {
       <Fade cascade={true}>
         <div className="row  align-items-center justify-content-center mt-5">
           <div className="col-sm">
-            <img src="https://ngratesc.sirv.com/Raine/12934.jpg" className="img-fluid rounded" alt="Person being messaged" />
+            <img src="https://cdn.clipond.com/Raine/12934.jpg" className="img-fluid rounded" alt="Person being messaged" />
           </div>
           <div className="col-sm text-md-start text-center">
             <h1 className="display-1 gradient-text">Our Story</h1>
@@ -110,7 +110,7 @@ function App() {
                 </Fade>
             </div>
             <div className="col-sm">
-              <img src="https://ngratesc.sirv.com/BeautyMaxine/2149941525.jpg" className="img-fluid rounded"/>
+              <img src="https://cdn.clipond.com/BeautyMaxine/2149941525.jpg" className="img-fluid rounded"/>
             </div>
           </div>
         </Fade>
@@ -125,7 +125,7 @@ function App() {
             <div className="row gap-3 mt-3 mb-3">
               <div className="col-sm shadow rounded p-2 mb-2 gradient-bg-card">
                 <Fade direction="down" cascade={true}>	
-                <img src="https://ngratesc.sirv.com/Raine/12885.jpg" className="img-thumbnail rounded" />
+                <img src="https://cdn.clipond.com/Raine/12885.jpg" className="img-thumbnail rounded" />
                 <p className="fw-bold gradient-text">Holistic Body Rituals</p>
                 <small> Deep-tissue and relaxation massages, precision facials tailored to your skin’s needs, and professional nail care—all delivered with keen attention to detail and a warm, personal touch.
 </small>
@@ -134,7 +134,7 @@ function App() {
               <div className="col-sm shadow rounded p-2 mb-2">
               <Fade direction="down" cascade={true}>	
 
-                <img src="https://ngratesc.sirv.com/BeautyMaxine/bertj.png" className="img-thumbnail rounded" />
+                <img src="https://cdn.clipond.com/BeautyMaxine/bertj.png" className="img-thumbnail rounded" />
 
                 <p className="fw-bold gradient-text">Specialized Post-Operative Care</p>
                 <small>From the first hours after surgery through every stage of recovery, our team provides wound cleaning and dressing, lymphatic drainage to reduce swelling, seroma monitoring and drainage, plus fibrosis and keloid-scar prevention protocols.</small>
@@ -143,7 +143,7 @@ function App() {
               <div className="col-sm shadow rounded p-2 mb-2">
               <Fade direction="down" cascade={true}>	
 
-                <img src="https://ngratesc.sirv.com/BeautyMaxine/wellness.png" className="img-thumbnail rounded" />
+                <img src="https://cdn.clipond.com/BeautyMaxine/wellness.png" className="img-thumbnail rounded" />
                 <p className="fw-bold gradient-text">Wellness Infusions & Rebalancing Drips</p>
                 <small>Medical-grade IV therapies that replenish hydration, accelerate tissue repair, and restore your inner equilibrium—so you emerge feeling energized, clear-headed, and ready to embrace your new contours.
 </small>
@@ -154,7 +154,7 @@ function App() {
               <div className="col-sm shadow rounded p-2 mb-2">
               <Fade direction="down" cascade={true}>	
 
-                <img src="https://ngratesc.sirv.com/Raine/2150356700.jpg" className="img-thumbnail rounded" />
+                <img src="https://cdn.clipond.com/Raine/2150356700.jpg" className="img-thumbnail rounded" />
                 <p className="fw-bold gradient-text">Targeted Procedure Support</p>
                 <small>  Customized recovery plans for Brazilian Butt Lift (BBL), liposuction, tummy tuck, and other cosmetic surgeries, developed in consultation with leading surgeons to ensure optimal outcomes.
 </small>
@@ -163,7 +163,7 @@ function App() {
               <div className="col-sm shadow rounded p-2 mb-2">
               <Fade direction="down" cascade={true}>	
 
-                <img src="https://ngratesc.sirv.com/Raine/10010%20(1).jpg" className="img-thumbnail rounded" />
+                <img src="https://cdn.clipond.com/Raine/10010%20(1).jpg" className="img-thumbnail rounded" />
                 <p className="fw-bold gradient-text">Continuous Guidance & Confidentiality</p>
                 <small> We partner with you at every turn tracking your progress, fine-tuning your treatment plan, and safeguarding your privacy. Our modern facility and compassionate professionals offer a discreet, judgment-free space where your comfort and confidence come first.
 </small>
@@ -183,7 +183,7 @@ function App() {
             <p className="gradient-text">Privacy First</p>
             <p> rooted in professionalism and compassion. We understand that true healing happens when expertise meets genuine kindness, so we cultivate an environment of trust and discretion from the moment you walk through our doors. Whether you’re here for a revitalizing facial, a restorative massage, or the specialized care that follows a tummy tuck, liposuction, Brazilian Butt Lift, or scar-revision procedure, your privacy is our first priority and your well-being, our unwavering commitment.</p>
               <a href="mailto:info@beautybymaxine.co.zw?subject=Info on your ethos"><button className="btn p_btn mt-2 mb-3">Learn More</button></a>
-            <img src="https://ngratesc.sirv.com/BeautyMaxine/hands-1327811_1920.jpg" className="img-fluid rounded" />
+            <img src="https://cdn.clipond.com/BeautyMaxine/hands-1327811_1920.jpg" className="img-fluid rounded" />
           </div>
           </Fade>
         </div>
@@ -200,7 +200,7 @@ function App() {
 
           </div>
           <div className="col-sm">
-            <img src="https://ngratesc.sirv.com/BeautyMaxine/woman-s-body-with-marker-traces-front-view.jpg" className="img-fluid rounded" alt="wellness academy" />
+            <img src="https://cdn.clipond.com/BeautyMaxine/woman-s-body-with-marker-traces-front-view.jpg" className="img-fluid rounded" alt="wellness academy" />
           </div>
         </div>
         </Fade>
@@ -216,7 +216,7 @@ function App() {
               <a href={`https://wa.me/${phone}?text=Can i get more information about your vision`}><button className="btn p_btn mt- mb-3">Learn More</button></a>
           </div>
           <div className="col-sm order-md-first">
-            <img src="https://ngratesc.sirv.com/BeautyMaxine/portrait-beautiful-woman-with-floral-mask-gloves.jpg" className="img-fluid rounded" alt="wellness academy" />
+            <img src="https://cdn.clipond.com/BeautyMaxine/portrait-beautiful-woman-with-floral-mask-gloves.jpg" className="img-fluid rounded" alt="wellness academy" />
           </div>
         </div>
         </Fade>
@@ -287,7 +287,7 @@ function App() {
           <span>All Rights Reserved © Beauty By Maxine {new Date().getFullYear()}</span>
       </div>
       <ToastContainer />
-      <FloatingWhatsApp phoneNumber={phone} accountName="Beauty By Maxine" avatar="https://ngratesc.sirv.com/BeautyMaxine/logo.png" statusMessage="Typically replies within 10 minutes"/>
+      <FloatingWhatsApp phoneNumber={phone} accountName="Beauty By Maxine" avatar="https://cdn.clipond.com/BeautyMaxine/logo.png" statusMessage="Typically replies within 10 minutes"/>
     </div>
   )
 }
